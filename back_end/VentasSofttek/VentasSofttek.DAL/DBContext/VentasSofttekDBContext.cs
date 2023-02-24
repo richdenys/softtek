@@ -8,7 +8,7 @@ using VentasSofttek.Models.Response;
 
 namespace VentasSofttek.DAL.DBContext
 {
-    public  class VentasSofttekDBContext : DbContext
+    public class VentasSofttekDBContext : DbContext
     {
         public VentasSofttekDBContext()
         {

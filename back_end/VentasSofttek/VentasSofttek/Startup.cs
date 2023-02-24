@@ -179,47 +179,40 @@ namespace VentasSofttek
                 CodSucursal = "0001",
                 CodVendedor = "1",
                 Total = 200,
+                Precio=100,
                 FechaVenta = DateTime.Now.ToString("yyyy-MM-dd"),
                 
             };
-            v1.DET.Add(new DETVentas() { IdProduct="2",Cantidad=1,Precio=200});
-            v1.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 2, Precio = 300 });
-            v1.DET.Add(new DETVentas() { IdProduct = "2", Cantidad = 3, Precio = 400 });
-
+            
             Ventas v2 = new Ventas()
             {
                 ID = 2,
                 NumDocumento = "00002",
-                Cantidad = 2,
+                Cantidad = 3,
                 CodClient = "1",
                 CodFormaPago = "efectivo",
-                Total=100,
+                Total=300,
                 CodSucursal = "0001",
                 CodVendedor = "1",
                 FechaVenta ="01-02-2023",
-                
+                Precio = 100,
             };
-            v2.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 1, Precio = 200 });
-            v2.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 2, Precio = 300 });
-            v2.DET.Add(new DETVentas() { IdProduct = "2", Cantidad = 3, Precio = 400 });
-
+          
 
             Ventas v3 = new Ventas()
             {
                 ID = 3,
                 NumDocumento = "00003",
-                Cantidad = 2,
+                Cantidad = 5,
                 CodClient = "1",
                 CodFormaPago = "efectivo",
-                Total = 100,
+                Total = 500,
+                Precio=100,
                 CodSucursal = "0001",
                 CodVendedor = "1",
                 FechaVenta = "01-01-2023",
 
             };
-            v3.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 1, Precio = 200 });
-            v3.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 2, Precio = 300 });
-            v3.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 3, Precio = 400 });
 
             Ventas v4 = new Ventas()
             {
@@ -228,15 +221,13 @@ namespace VentasSofttek
                 Cantidad = 3,
                 CodClient = "2",
                 CodFormaPago = "tarjeta",
-                Total=2000,
+                Total=75,
+                Precio=25,
                 CodSucursal = "0001",
                 CodVendedor = "1",
                 FechaVenta = "15-01-2023",
-                
+
             };
-            v4.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 1, Precio = 200 });
-            v4.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 2, Precio = 300 });
-            v4.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 3, Precio = 400 });
 
             context.Ventas.Add(v1);
            

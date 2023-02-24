@@ -6,10 +6,7 @@ namespace VentasSofttek.Models.GesVentas
 {
     public class Ventas
     {
-        public Ventas()
-        {
-            this.DET=new List<DETVentas>();     
-        }
+      
         public int ID { get; set; }
         public string NumDocumento { get; set; }
         public string CodVendedor { get; set; }
@@ -18,7 +15,9 @@ namespace VentasSofttek.Models.GesVentas
         public double Total { get; set; }
         public string FechaVenta { get; set; }
         public int Cantidad { get; set; }
+        public double Precio { get; set; }
         public string CodFormaPago { get; set; }
-        public List<DETVentas> DET { get; set; }
+       
+
     }
 }

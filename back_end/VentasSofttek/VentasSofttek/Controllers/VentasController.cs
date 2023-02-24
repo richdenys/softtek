@@ -63,19 +63,11 @@ namespace VentasSofttek.Controllers
             return Ok(_context.Ventas.Where(f => f.CodClient == id));
         }
 
-    
-
 
         // POST api/<VentasController>
         [HttpPost]
         public IActionResult Post([FromBody] Ventas ventas)
         {
-
-            foreach (var item in ventas.DET)
-            {
-                ventas.Total += item.Cantidad * item.Precio;
-            }
-
 
             _context.Ventas.Add(ventas);
             _context.SaveChanges();
