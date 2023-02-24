@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kwXWdTN2SmyLmTrhmlB8Eo8NmE4dCMlKLLnbSg6fA1IQmqx4x4qr5H+Hw5lq0USFZdF0g7QBqxDJSUTIavyCyA==",
+  "dgSpecHash": "sihnIZH6gYeoOzBwEnLVLS88kv98Pa1hAaCT7ldO4znUQ05dJe//n3apDi4amFVn386OMYA/m5z+HEeAFRDkaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\VentasSofttek.DTO.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\VentasSofttek.DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

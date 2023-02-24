@@ -182,9 +182,9 @@ namespace VentasSofttek
                 FechaVenta = DateTime.Now.ToString("yyyy-MM-dd"),
                 
             };
-            v1.DET.Add(new DETVentas() { ID=1,IdProduct="2",Cantidad=1,Precio=200});
-            v1.DET.Add(new DETVentas() { ID = 2, IdProduct = "2", Cantidad = 2, Precio = 300 });
-            v1.DET.Add(new DETVentas() { ID = 3, IdProduct = "2", Cantidad = 3, Precio = 400 });
+            v1.DET.Add(new DETVentas() { IdProduct="2",Cantidad=1,Precio=200});
+            v1.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 2, Precio = 300 });
+            v1.DET.Add(new DETVentas() { IdProduct = "2", Cantidad = 3, Precio = 400 });
 
             Ventas v2 = new Ventas()
             {
@@ -199,9 +199,9 @@ namespace VentasSofttek
                 FechaVenta ="01-02-2023",
                 
             };
-            v2.DET.Add(new DETVentas() { ID = 1, IdProduct = "2", Cantidad = 1, Precio = 200 });
-            v2.DET.Add(new DETVentas() { ID = 2, IdProduct = "2", Cantidad = 2, Precio = 300 });
-            v2.DET.Add(new DETVentas() { ID = 3, IdProduct = "2", Cantidad = 3, Precio = 400 });
+            v2.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 1, Precio = 200 });
+            v2.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 2, Precio = 300 });
+            v2.DET.Add(new DETVentas() { IdProduct = "2", Cantidad = 3, Precio = 400 });
 
 
             Ventas v3 = new Ventas()
@@ -217,9 +217,9 @@ namespace VentasSofttek
                 FechaVenta = "01-01-2023",
 
             };
-            v3.DET.Add(new DETVentas() { ID = 1, IdProduct = "2", Cantidad = 1, Precio = 200 });
-            v3.DET.Add(new DETVentas() { ID = 2, IdProduct = "2", Cantidad = 2, Precio = 300 });
-            v3.DET.Add(new DETVentas() { ID = 3, IdProduct = "2", Cantidad = 3, Precio = 400 });
+            v3.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 1, Precio = 200 });
+            v3.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 2, Precio = 300 });
+            v3.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 3, Precio = 400 });
 
             Ventas v4 = new Ventas()
             {
@@ -234,17 +234,20 @@ namespace VentasSofttek
                 FechaVenta = "15-01-2023",
                 
             };
-            v4.DET.Add(new DETVentas() { ID = 1, IdProduct = "2", Cantidad = 1, Precio = 200 });
-            v4.DET.Add(new DETVentas() { ID = 2, IdProduct = "2", Cantidad = 2, Precio = 300 });
-            v4.DET.Add(new DETVentas() { ID = 3, IdProduct = "2", Cantidad = 3, Precio = 400 });
+            v4.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 1, Precio = 200 });
+            v4.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 2, Precio = 300 });
+            v4.DET.Add(new DETVentas() {  IdProduct = "2", Cantidad = 3, Precio = 400 });
 
             context.Ventas.Add(v1);
+           
             context.Ventas.Add(v2);
+           
             context.Ventas.Add(v3);
+            
             context.Ventas.Add(v4);
-
-
             context.SaveChanges();
+
+
 
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek\\VentasSofttek.csproj": {}
+    "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek\\VentasSofttek.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj",
         "projectName": "VentasSofttek.DAL",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\VentasSofttek.DTO.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\VentasSofttek.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\VentasSofttek.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\VentasSofttek.DTO.csproj",
         "projectName": "VentasSofttek.DTO",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\VentasSofttek.DTO.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\VentasSofttek.DTO.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,11 +100,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj"
               },
-              "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj",
         "projectName": "VentasSofttek.Models",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\VentasSofttek.Models.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -201,14 +201,14 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek\\VentasSofttek.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek\\VentasSofttek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek\\VentasSofttek.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek\\VentasSofttek.csproj",
         "projectName": "VentasSofttek",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek\\VentasSofttek.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek\\VentasSofttek.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -229,11 +229,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DAL\\VentasSofttek.DAL.csproj"
               },
-              "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\VentasSofttek.DTO.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\VentasSofttek.DTO.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\VentasSofttek.DTO.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\PROYECT_SOFTTEK\\softtek\\back_end\\VentasSofttek\\VentasSofttek.DTO\\VentasSofttek.DTO.csproj"
               }
             }
           }
